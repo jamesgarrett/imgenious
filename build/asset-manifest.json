@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3a442a0.chunk.css",
+    "main.js": "/static/js/main.3f0a05be.chunk.js",
+    "main.js.map": "/static/js/main.3f0a05be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd0b7808.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd0b7808.js.map",
+    "static/js/2.f5e692ba.chunk.js": "/static/js/2.f5e692ba.chunk.js",
+    "static/js/2.f5e692ba.chunk.js.map": "/static/js/2.f5e692ba.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b3a442a0.chunk.css.map": "/static/css/main.b3a442a0.chunk.css.map",
+    "static/js/2.f5e692ba.chunk.js.LICENSE.txt": "/static/js/2.f5e692ba.chunk.js.LICENSE.txt",
+    "static/media/bbca.890b9307.svg": "/static/media/bbca.890b9307.svg",
+    "static/media/dot.c22e0850.svg": "/static/media/dot.c22e0850.svg",
+    "static/media/for-you.f894921a.svg": "/static/media/for-you.f894921a.svg",
+    "static/media/imgenious-logo.c9ae019d.svg": "/static/media/imgenious-logo.c9ae019d.svg",
+    "static/media/killing-eve.3287518b.jpg": "/static/media/killing-eve.3287518b.jpg",
+    "static/media/live.72d3df59.svg": "/static/media/live.72d3df59.svg",
+    "static/media/menu.8abac30e.svg": "/static/media/menu.8abac30e.svg",
+    "static/media/search.9b5730a5.svg": "/static/media/search.9b5730a5.svg",
+    "static/media/App.scss": "/static/media/shields.01550b53.png",
+    "static/media/timer-dot.d3d4b605.svg": "/static/media/timer-dot.d3d4b605.svg",
+    "static/media/watchlist.74ee5721.svg": "/static/media/watchlist.74ee5721.svg",
+    "static/media/x-files.438b909c.jpeg": "/static/media/x-files.438b909c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd0b7808.js",
+    "static/js/2.f5e692ba.chunk.js",
+    "static/css/main.b3a442a0.chunk.css",
+    "static/js/main.3f0a05be.chunk.js"
+  ]
+}

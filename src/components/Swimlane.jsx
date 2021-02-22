@@ -8,19 +8,19 @@ const Swimlane = () => (
       <h3 className="label-primary-2 p-l p-md m-b m-sm">Continue watching</h3>
       <ul className="swimlane p-l p-md">
         <li className="card img-wide img-lg">
-          <img src="https://source.unsplash.com/user/erondu/820x369" alt="show name" width="820" height="369" />
+          <img src="https://dimages.amcnetworks.com/1280x720/filters:quality(60):format(jpg)/images.amcnetworks.com/amc.com/wp-content/uploads/2010/12/MM_1200x780.jpg" alt="show name" width="820" height="369" />
         </li>
         <li className="card img-wide img-lg">
-          <img src="https://source.unsplash.com/user/dq_silviaaa/820x369" alt="show name" width="820" height="369" />
+          <img src="https://dimages.amcnetworks.com/1280x720/filters:quality(60):format(jpg)/images.amcnetworks.com/amc.com/wp-content/uploads/2019/11/10B_TWDWorldBeyond_OTTThumbnail_1280x720.jpg" alt="show name" width="820" height="369" />
         </li>
         <li className="card img-wide img-lg">
-          <img src="https://source.unsplash.com/user/erondu/820x369" alt="show name" width="820" height="369" />
+          <img src="https://dimages.amcnetworks.com/1280x720/filters:quality(60):format(jpg)/images.amcnetworks.com/amc.com/wp-content/uploads/2019/07/the-walking-dead-season-10b-daryl-reedus-1280x720_OTT_Thumbnail_FINALE.jpg" alt="show name" width="820" height="369" />
         </li>
         <li className="card img-wide img-lg">
-          <img src="https://source.unsplash.com/user/erondu/820x369" alt="show name" width="820" height="369" />
+          <img src="https://dimages.amcnetworks.com/1280x720/filters:quality(75):format(jpg)/images.amcnetworks.com/amc.com/wp-content/uploads/2020/06/MST3K-1280x720.jpg" alt="show name" width="820" height="369" />
         </li>
         <li className="card img-wide img-lg">
-          <img src="https://source.unsplash.com/user/erondu/820x369" alt="show name" width="820" height="369" />
+          <img src="https://dimages.amcnetworks.com/1280x720/filters:quality(60):format(jpg)/images.amcnetworks.com/amc.com/wp-content/uploads/2020/05/nos4a2-season-2-S2-key-art-1280x720_OTT_Thumbnail.jpg" alt="show name" width="820" height="369" />
         </li>
       </ul>
     </section>
