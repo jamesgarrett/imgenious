@@ -1,0 +1,71 @@
+.swimlane-container{
+  background: $secondary-dark;
+  color: $primary-light;
+  .label-primary-2::before{
+    content: '|';
+    color: $primary-brand;
+    padding-right: var(--p-xs);
+  }
+  .swimlane, .feature{
+    display:grid;
+    grid-auto-flow:column;
+    overflow: auto;
+    grid-gap:1rem;
+    list-style-type: none;
+    scroll-snap-type: x mandatory;
+    scroll-padding-left: var(--p-md);
+    .card{
+      scroll-snap-align: start;
+      background: gray;
+    }
+    .text-poster{
+      background: none;
+    }
+  }
+  .swimlane::after{
+    content: "";
+    padding-right: var(--p-sm);
+  }
+  .grid{
+    display: grid;
+    grid-template-columns: repeat(4,fit-content(3rem));
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+    list-style-type: none;
+    .card{
+      background: gray;
+      text-align: center;
+    }
+  }
+  .feature{
+    .hero {
+      position: absolute;
+      top: 0;
+      height: fit-content;
+      padding: var(--p-sm);
+    }
+    .flag{
+      min-width: 10rem;
+      height: fit-content;
+      grid-area: header;
+      text-align: center;
+    }
+  }
+  @media screen and (max-width:1025px){
+    .swimlane{
+      scroll-padding-left: var(--p-sm);
+    }
+  	.grid{
+  		    grid-template-columns: repeat(3,fit-content(3rem));
+  	}
+  }
+
+  @media screen and (max-width:767px){
+    .swimlane{
+      scroll-padding-left: var(--p-xs);
+    }
+  	.grid{
+  		    grid-template-columns: repeat(2,fit-content(3rem));
+  	}
+  }
+}

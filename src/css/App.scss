@@ -1,0 +1,29 @@
+/* base */
+
+@import 'base/utils';
+@import 'base/base';
+@import 'base/normalize';
+@import 'base/images';
+
+/* theme */
+
+@import 'theme/index.scss';
+
+/* components */
+
+@import 'components/controls';
+@import 'components/hero';
+@import 'components/nav';
+@import 'components/progressbar';
+@import 'components/swimlane';
+@import 'components/button';
+
+.App{
+  transition: 1s ease-in-out;
+}
+
+
+body{
+  background: $primary-dark;
+  color: $primary-light;
+}
