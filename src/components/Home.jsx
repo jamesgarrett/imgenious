@@ -4,7 +4,6 @@ import Swimlane from './Swimlane';
 
 const Home = () => (
   <div>
-    <Hero />
     <Swimlane />
   </div>
 );

@@ -2,7 +2,7 @@ import React from 'react';
 import ProgressBar from './ProgressBar';
 import Details from './Details';
 import Controls from './Controls';
-import AmcLogo from '../img/logos/amc.svg';
+import AmcLogo from '../img/logos/imgenious-logo.svg';
 import KeyArt from '../img/elements/killing-eve.jpg';
 
 const Hero = () => (

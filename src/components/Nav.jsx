@@ -4,7 +4,7 @@ import ForYou from '../img/icons/for-you.svg';
 import Live from '../img/icons/live.svg';
 import Search from '../img/icons/search.svg';
 import WatchList from '../img/icons/watchlist.svg';
-import AmcLogo from '../img/logos/amc.svg';
+import AmcLogo from '../img/logos/imgenious-logo.svg';
 import HamBurger from '../img/icons/menu.svg';
 
 function Navigation() {
